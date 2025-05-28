@@ -1,0 +1,63 @@
+/* -- Start GHL Style CSS -- */
+
+:root {
+  --brand-logo: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745646079/AutoGenCRM_k4fbya.png);
+  --brand-primary-color: #0015f3;
+  --brand-secondary-color: #4a4a4a;
+  --brand-acent-color: #111111;
+  --ghl-topbar-color: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  --ghl-sidebar-color: linear-gradient(40deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  --menu-hover-color: #3a3e5a;
+  --menu-active-color: linear-gradient(103deg, #3b82f6 0%, #007d68 59.85%, #10b981 100%);
+  --sidebar-bottom-toggle: linear-gradient(103deg, #3b82f6 0%, #007d68 59.85%, #10b981 100%);
+  --ghl-widgets-color: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  --ghl-widgets-bg-color: #ffffff;
+  --ghl-topbar-text-color: #ffffff;
+  --menu-text-color: #ffffff;
+  --ghl-dashboard-icon-color: #ffffff;
+  --ghl-widgets-text-color: #ffffff;
+  --ghl-widgets-icon-color: #ffffff;
+  --ghl-topbar-icon-color: #ffffff;
+  --Launch-Pad-Text: "fgdfg";
+  --Dashboard-Text: "Dashboard";
+  --Conversations-Text: "dfgdfg";
+  --Calendar-Text: "Calendar";
+  --Contacts-Text: "Contacts";
+  --Opportunities-Text: "Opportunities";
+  --Payments-Text: "Payments";
+  --AI-Agents-Text: "yuytuyt";
+  --Marketing-Text: "Marketing";
+  --Automations-Text: "ewrewr";
+  --Sites-Text: "Sites";
+  --Memberships-Text: "fghgfh";
+  --Media-Storage-Text: "Media Storage";
+  --Reputation-Text: "dasdasd";
+  --Reporting-Text: "Reporting";
+  --App-Marketplace-Text: "App Marketplace";
+  --Mobile-App-Text: "Mobile App";
+  --Settings-Text: "jhjhjj";
+  --launch-pad-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636990/RocketLaunch_tnxjuq.png);
+  --dashboard-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/ChartDonut_xvomxc.png);
+  --conversations-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/Chats_evuom2.png);
+  --calendars-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/CalendarDots_l5tpxr.png);
+  --contacts-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/IdentificationCard_aq9t7m.png);
+  --opportunities-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/HandCoins_hd3giq.png);
+  --payments-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/CurrencyDollarSimple_p2lp03.png);
+  --ai-agents-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745638645/AI_Agents_b9zrtr.png);
+  --marketing-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/Megaphone_ywe4yq.png);
+  --automations-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636987/GearFine_muf3ps.png);
+  --sites-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636987/Browser_jbi5vh.png);
+  --memberships-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/Certificate_iyrcno.png);
+  --media-storage-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/ImagesSquare_wghzea.png);
+  --reputation-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/ListStar_swgiix.png);
+  --reporting-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636990/ChartBar_vpzouh.png);
+  --app-marketplace-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636990/SquaresFour_tdk36i.png);
+  --mobile-app-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/DeviceMobileCamera_q526gh.png);
+  --settings-icon: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636990/ToggleRight_k50xms.png);
+  --icon-dialer: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636989/Phone_jnm2yw.png);
+  --icon-activitie: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636988/Bell_cczvh7.png);
+  --icon-help: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636990/Question_sh2vk0.png);
+  --icon-canny-logs: url(https://res.cloudinary.com/dn3mdxebf/image/upload/v1745636987/GearSix_blhogp.png);
+}
+
+/* -- End GHL Style CSS -- */
